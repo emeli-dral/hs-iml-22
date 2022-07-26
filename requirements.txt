@@ -7,3 +7,8 @@ hyperopt
 xgboost
 fastparquet
 prefect==2.0b6
+flask
+streamlit
+numba
+shap
+evidently
